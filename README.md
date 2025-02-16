@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Currently working as a R&D Engineer in Industrial Automation in Japan.<br>Passionate for Control Theory, Robotics and constant Learning.
 
 
